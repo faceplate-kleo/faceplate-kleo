@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @faceplate-kleo (or just Kleo)
-- 👀 I’m interested in image manipulation, simulations, and DevOps
+- 👋 Hi, I’m Kleo ^_^
+- 👀 I’m interested in image manipulation, simulations, sound synthesis, and DevOps
 - 🌱 I’m currently learning Go and Terraform
 - 💞️ I’m looking to collaborate on programs as artistic expression
 - 📫 How to reach me: Discord @colonelst0rm
