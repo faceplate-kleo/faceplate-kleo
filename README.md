@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kleo ^_^
 - 👀 I’m interested in image manipulation, simulations, sound synthesis, and DevOps
-- 🌱 I’m currently learning Go and Terraform
+- 🌱 I’m currently learning Rust and Terraform
 - 💞️ I’m looking to collaborate on programs as artistic expression
 - 📫 How to reach me: Discord @itzkleonow
 
